@@ -6,6 +6,7 @@
 
 Currently going through:
 - [Speedrun Ethereum](https://speedrunethereum.com/builders/0xc39286CF8B23Cf028Ed0262681Ef84f446f910e3)
+- [Ethernaut](https://ethernaut.openzeppelin.com/)
 
 <!---
 lordofthedance/lordofthedance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
